@@ -51,6 +51,8 @@ stackedit
 https://stackedit.io  
 
 为什么没有mac下面的工具呢？
+
+以后继续收集相关信息！
  
 
 完！
