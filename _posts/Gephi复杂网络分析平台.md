@@ -1,7 +1,7 @@
 title: Gephi复杂网络分析平台
 date: 2015-12-27 14:28:06
-tags: [Gephi, Gexf, Python]
-categories: 数据可视化开发
+tags: [Gephi, Gexf]
+categories: Others
 ---
 [Gephi](http://gephi.org/)是一款开源的交互式的复杂网络分析平台，可以生成些比较漂亮的网络图。它支持Windows, Mac OS X以及Linux等环境。主要功能包括： 网络布局：提供了超过10种不同的布局算法 网络社区分析和分类 网络属性计算 动态网络分析。 Gephi被用于互联网，生物医学，交通网络分析等各个领域。
 

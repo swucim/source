@@ -1,7 +1,7 @@
 title: Python爬虫开发中遇到的问题
 date: 2015-12-02 10:50:05
-categories: 数据可视化开发
-tags: [Python, 爬虫]
+categories: Python
+tags: 爬虫
 ---
 #### python操作mysql中文显示乱码
 1. Python文件设置编码 utf-8,文件前面加上:

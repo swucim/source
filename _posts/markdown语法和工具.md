@@ -1,6 +1,6 @@
 title: markdown语法和工具
 date: 2015-12-01 14:40:21
-categories: 资源工具汇总
+categories: Others
 tags: markdown
 ---
 一 简明语法

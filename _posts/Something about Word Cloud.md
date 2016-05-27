@@ -1,7 +1,7 @@
 title: 关于词云的几件事
 date: 2016-05-03 18:47:07
 tags: [Tableau, 词云, word cloud]
-categories: 数据可视化开发
+categories: Tableau
 ---
 
 最近在用Tableau做词云图(Word Cloud)相关的东西，看到一篇不错的文章[(原文地址)](http://www.clearlyandsimply.com/clearly_and_simply/2015/03/word-clouds-with-tableau.html)，摘取其中的精华翻译如下，供大家观摩学习。

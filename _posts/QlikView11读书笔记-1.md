@@ -1,7 +1,7 @@
 title: QlikView11读书笔记 1
 date: 2015-08-17 15:41:45
-categories: QlikView11读书笔记
-tags: QlikView
+categories: QlikView
+tags: 读书笔记
 ---
 # 第一章 初识QlikView
  

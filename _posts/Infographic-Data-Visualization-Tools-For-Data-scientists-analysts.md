@@ -1,7 +1,7 @@
 title: 'Infographic: Data Visualization Tools For Data scientists & analysts'
 date: 2015-11-05 20:38:23
-categories: 资源工具汇总
-tags: [数据可视化, 工具, 转载]
+categories: Others
+tags: 转载
 ---
 If we create a similar ordering on ability to interpret data in various forms – the order will surely look like this:
 

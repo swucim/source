@@ -1,7 +1,7 @@
 title: 基于D3JS绘制中国地图
 date: 2015-12-27 15:02:45
 tags: [D3, JavaScript]
-categories: JavaScript可视化
+categories: JavaScript
 ---
 参照网上给出的一些教程，仿照D3JS官网上的[美国地图](http://bl.ocks.org/NPashaP/a74faf20b492ad377312)制作了一个中国版的地图，效果如下：
 

@@ -1,7 +1,7 @@
 title: QlikView11读书笔记 5
 date: 2015-08-27 16:40:22
-categories: QlikView11读书笔记
-tags: QlikView
+categories: QlikView
+tags: 读书笔记
 ---
 # 第五章 形成风格(Styling up)
  

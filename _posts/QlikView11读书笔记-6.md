@@ -1,7 +1,7 @@
 title: QlikView11读书笔记 6
 date: 2015-08-28 16:40:31
-categories: QlikView11读书笔记
-tags: QlikView
+categories: QlikView
+tags: 读书笔记
 toc: true
 ---
 # 第六章 building dashboard 创建dashboard

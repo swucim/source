@@ -1,7 +1,7 @@
 title: 一篇关于Qlikview的演讲稿
 date: 2015-11-21 12:29:54
-categories: 业界杂谈
-tags: QlikView 
+categories: QlikView
+tags: 转载
 ---
 [文章来源](http://qlikview.blogbus.com/logs/33633021.html)
 

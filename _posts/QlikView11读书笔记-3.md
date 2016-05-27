@@ -1,7 +1,7 @@
 title: QlikView11读书笔记 3
 date: 2015-08-24 15:41:45
-categories: QlikView11读书笔记
-tags: QlikView
+categories: QlikView
+tags: 读书笔记
 ---
 # 第三章 数据源
 ###### 总的说来，QlikView要抽取数据的数据来源分为五种类型：

@@ -1,7 +1,7 @@
 title: Python集成Selenium抓取动态网页示例
 date: 2015-12-13 13:38:27
-tags: [Python, Selenium, 爬虫]
-categories: 数据可视化作品
+tags: [Selenium, 爬虫]
+categories: Python
 ---
 This is an example of crawling keywords related news from [人民网](http://www.people.com.cn) with selenium.
 

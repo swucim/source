@@ -1,7 +1,7 @@
 title: QlikView11读书笔记 2
 date: 2015-08-20 15:41:45
-categories: QlikView11读书笔记
-tags: QlikView
+categories: QlikView 
+tags: 读书笔记
 ---
 # 第二章 Seeing is believing 眼见为实 SIB
  

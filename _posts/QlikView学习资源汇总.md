@@ -1,7 +1,7 @@
 title: QlikView学习资源汇总
 date: 2015-08-14 17:05:16
-categories: 资源工具汇总
-tags: QlikView
+categories: QlikView
+tags: 资源工具
 ---
 #### 排名不分先后
 

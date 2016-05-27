@@ -1,7 +1,7 @@
 title: 利用notepad++打造Qlikview专属代码编辑器
 date: 2015-10-21 17:16:44
-categories: 资源工具汇总
-tags: QlikView
+categories: QlikView
+tags: 资源工具
 ---
 notepad++是一款非常好的编辑器，除了已经内置的常见语言，利用它我们可以自定义其他语言，比如Qlikview脚本语言。
 

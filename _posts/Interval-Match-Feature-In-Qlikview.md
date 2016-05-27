@@ -1,7 +1,7 @@
 title: "Interval Match Feature In Qlikview"
 date: 2015-09-20 20:31:32
-categories: 数据可视化开发
-tags: [QlikView, 转载]
+categories: QlikView
+tags: 转载
 ---
 #### Introduction:
 The **Interval Match** is one of the functions in Qlikview which can be used for discreet data to one or more dimensions that are changing over time**解决缓慢变化维的问题**. It is one of the powerful features that can be used for resolving with slowly changing dimensions by linking the specific key fields to the appropriate numeric intervals.

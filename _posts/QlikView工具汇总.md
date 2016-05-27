@@ -1,7 +1,7 @@
 title: QlikView工具汇总
 date: 2015-09-07 17:28:22
-categories: 资源工具汇总
-tags: QlikView
+categories: QlikView
+tags: 资源工具
 ---
 QVD查看工具
 

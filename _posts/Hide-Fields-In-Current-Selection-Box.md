@@ -1,7 +1,7 @@
 title: Hide Fields In Current Selection Box
 date: 2015-09-27 20:23:49
-categories: 数据可视化开发
-tags: [QlikView, 转载]
+categories: QlikView
+tags: [转载]
 ---
 #### Introduction:
 

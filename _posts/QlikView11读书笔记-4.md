@@ -1,7 +1,7 @@
 title: QlikView11读书笔记 4
 date: 2015-08-25 16:29:21
-categories: QlikView11读书笔记
-tags: QlikView
+categories: QlikView
+tags: 读书笔记
 ---
 # 第四章 数据模型
 ##### 维度模型 

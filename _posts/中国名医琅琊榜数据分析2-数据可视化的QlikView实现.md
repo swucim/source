@@ -1,7 +1,7 @@
 title: 中国名医琅琊榜数据分析2-数据可视化的QlikView实现
 date: 2015-12-09 17:00:28
-tags: [QlikView, 数据模型]
-categories: 数据可视化作品
+tags: 可视化案例
+categories: QlikView
 ---
 ## 写在前面
 承接上文，本文继续对收集的中国名医琅琊榜数据进行建模并使用QlikView实现可视化的Dashboard。

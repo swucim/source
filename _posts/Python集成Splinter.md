@@ -1,7 +1,7 @@
 title: Python集成Splinter
 date: 2015-12-13 17:47:07
-tags: [Python, Splinter, 爬虫]
-categories: 数据可视化开发
+tags: [Splinter, 爬虫]
+categories: Python
 ---
 在学习Selenium的时候又发现这一款大杀器，比起Selenium代码更加简洁，操作起来也更方便。
 
